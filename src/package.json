@@ -1,0 +1,21 @@
+{
+  "name": "audio-player",
+  "ver.0",
+  "des"",
+  "maijs",
+  "scr
+    "tREGION=us-east-1 mocha test"
+  },
+  "key
+  "aut
+  "lic",
+  "dep {
+    "a2.0.5",
+    "amodb-persistence-adapter": "^2.0.5"
+  },
+  "devs": {
+    "c.2",
+    "c: "^1.4.0",
+    "m0.5"
+  }
+}
